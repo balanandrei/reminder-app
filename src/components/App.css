@@ -1,0 +1,14 @@
+.App {
+    padding-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.Title {
+    margin-bottom: 2rem;
+}
+
+.reminder-button {
+    margin: 5px;
+}
