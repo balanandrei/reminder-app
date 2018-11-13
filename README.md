@@ -2,6 +2,10 @@
 
 I created this app to have a better understanding of the Redux state management.
 
+TODO:
+- Add Timestamp reminder
+- Save state in localstorage
+
 ## Available Scripts
 
 In the project directory, you can run:
