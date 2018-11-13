@@ -12,3 +12,12 @@
 .reminder-button {
     margin: 5px;
 }
+
+.list-item {
+    display: inline-block;
+}
+
+.delete-button {
+    padding-left: 10px;
+    cursor: pointer;
+}
